@@ -4,9 +4,9 @@ I do some stuff.
 
 I'm a fullstack developer, mainly focused on JavaScript, doing back end development with NodeJS and mobile development with React Native.
 
-I love regular expressions, prototypes, optional chaining, nullish coalescing, asynchronous functions, IIFEs and classes.
+Regular Expressions are cool 😎.
 
-React Native is what I use most of the time to make apps, but I've also played around with Xamarin and Flutter.
+React Native is what I use the most, but I've also played around with Xamarin and Flutter.
 
 ## About me
 
@@ -21,6 +21,7 @@ React Native is what I use most of the time to make apps, but I've also played a
 - How to make apps with Xamarin
 - How to use Vue.js
 - How to use TensorFlow.js
+- Practices with React.js
 
 ### I use a lot...
 
@@ -38,6 +39,7 @@ React Native is what I use most of the time to make apps, but I've also played a
 
 - C#
 - PHP
+- TypeScript
 
 ### Tinkered a bit with...
 
@@ -50,10 +52,7 @@ React Native is what I use most of the time to make apps, but I've also played a
 - Python
 - React.js
 - TensorFlow.js
-- TypeScript
 - Unity
 - Visual Basic
 - Vue.js
 - Xamarin
-
-### Reach me...
