@@ -57,8 +57,8 @@ React Native is what I use the most, but I've also played around with Xamarin an
 - Vue.js
 - Xamarin
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinicius314&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="lucasvinicius314" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinicius314&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="lucasvinicius314" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvinicius314&show_icons=true&locale=en&theme=dark&count_private=true" alt="lucasvinicius314" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lucasvinicius314&show_icons=true&locale=en&theme=dark&count_private=true" alt="lucasvinicius314" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvinicius314&theme=dark" alt="lucasvinicius314" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvinicius314&theme=dark" alt="lucasvinicius314" /></p>
