@@ -18,8 +18,6 @@ React Native is what I use the most, but I've also played around with Xamarin an
 ### Learning...
 
 - How to use Flutter and Dart
-- How to make apps with Xamarin
-- How to use Vue.js
 - How to use TensorFlow.js
 - Practices with React.js
 
@@ -34,16 +32,17 @@ React Native is what I use the most, but I've also played around with Xamarin an
 - Node.js
 - React Native
 - SQL
+- TypeScript
 
 ### I use, but not as much...
 
+- C
 - C#
 - PHP
-- TypeScript
+- Vue.js
 
 ### Tinkered a bit with...
 
-- C
 - C++
 - Dart
 - Flutter
@@ -54,7 +53,6 @@ React Native is what I use the most, but I've also played around with Xamarin an
 - TensorFlow.js
 - Unity
 - Visual Basic
-- Vue.js
 - Xamarin
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinicius314&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="lucasvinicius314" /></p>
