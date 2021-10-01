@@ -18,12 +18,10 @@ Regular Expressions are cool 😎.
 
 ### Main stack
 
-- Dart
-- Flutter
-- Node.js
-- React Native
-- SQL
+- Dart/Flutter
 - TypeScript
+- Node.js
+- React Native/Expo
 - Webdev
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinicius314&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="lucasvinicius314" /></p>
