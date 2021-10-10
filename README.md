@@ -13,7 +13,7 @@ Regular Expressions are cool 😎.
 ### Currently working with...
 
 - Flutter development
-- NodeJS back end development
+- Node.js back end development
 - React Native development
 
 ### Main stack
