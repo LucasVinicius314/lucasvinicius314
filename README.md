@@ -4,7 +4,7 @@ I do some stuff.
 
 I'm a fullstack developer, mainly focused on [TypeScript](https://www.typescriptlang.org/) and [Dart](https://dart.dev/), doing back end development with [NodeJS](https://nodejs.org/en/) and mobile development with [React Native](https://reactnative.dev/) and [Flutter](https://flutter.dev/).
 
-Regular Expressions are cool 😎.
+Regular expressions are cool 😎.
 
 [Portfolio](https://lucasvinicius314.github.io/portfolio/)
 
@@ -22,7 +22,7 @@ Regular Expressions are cool 😎.
 - TypeScript
 - Node.js
 - React Native/Expo
-- Webdev
+- Web development
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinicius314&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="lucasvinicius314" /></p>
 
