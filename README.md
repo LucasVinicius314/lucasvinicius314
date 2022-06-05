@@ -1,27 +1,20 @@
-### Hello there 👋
+### Hi
 
-I do some stuff.
+The stuff that i do eventually ends up here.
 
-I'm a fullstack developer, mainly focused on [TypeScript](https://www.typescriptlang.org/) and [Dart](https://dart.dev/), doing back end development with [NodeJS](https://nodejs.org/en/) and mobile development with [React Native](https://reactnative.dev/) and [Flutter](https://flutter.dev/).
+I'm a full stack developer, and my main focus is developing using [TypeScript](https://www.typescriptlang.org/) and [Dart](https://dart.dev/).
 
-Regular expressions are cool 😎.
+I usually prefer [NodeJS](https://nodejs.org/en/) for back end, and [React Native](https://reactnative.dev/) and [Flutter](https://flutter.dev/) for front end.
 
 [Portfolio](https://lucasvinicius314.github.io/portfolio/)
-
-## About me
-
-### Currently working with...
-
-- Flutter development
-- Node.js back end development
-- React Native development
+[NPM profile](https://www.npmjs.com/~suresure)
 
 ### Main stack
 
 - Dart/Flutter
-- TypeScript
-- Node.js
-- React Native/Expo
+- TypeScript/Node.js
+- React/React Native/Expo
+- C#/.NET Core
 - Web development
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinicius314&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="lucasvinicius314" /></p>
