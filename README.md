@@ -6,8 +6,8 @@ I'm a full stack developer, and my main focus is developing using [TypeScript](h
 
 I usually prefer [NodeJS](https://nodejs.org/en/) for back end, and [React Native](https://reactnative.dev/) and [Flutter](https://flutter.dev/) for front end.
 
-[Portfolio](https://lucasvinicius314.github.io/portfolio/)
-[NPM profile](https://www.npmjs.com/~suresure)
+- [Portfolio](https://lucasvinicius314.github.io/portfolio/)
+- [NPM profile](https://www.npmjs.com/~suresure)
 
 ### Main stack
 
