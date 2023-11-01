@@ -1,6 +1,6 @@
-### Hi
+### Sup
 
-The stuff that I do eventually ends up here.
+My code eventually ends up here.
 
 - [Portfolio](https://lucasvinicius314.github.io/portfolio/)
 - [NPM profile](https://www.npmjs.com/~suresure)
